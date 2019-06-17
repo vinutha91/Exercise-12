@@ -1,0 +1,4 @@
+#Fri Jun 14 14:51:31 IST 2019
+base.0=/Users/ankittanna/Desktop/PhoneGap/Exercise-12/phonegap-essential-plugins-dialogs/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
